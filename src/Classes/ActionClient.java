@@ -15,6 +15,7 @@ public class ActionClient extends Actor {
         super(name);
         if (action.getNumsActionParticipant()+1 <= action.getMaximumNumsParticipant()){
             this.idActionClient = action.geIdActionClient();
+            Market.log.info("Клиент " + name + " является участником акции" + action.getName());
         } else {
             Market.log.info("Клиент " + name + " не является участником акции " + action.getName() + ". Отказано в обслуживании по акции");
         }
