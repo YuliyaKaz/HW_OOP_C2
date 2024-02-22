@@ -7,5 +7,6 @@ import Classes.Actor;
 public interface iMarcketBehaviour {
     public void acceptToMarket(iActorBehaviour actor);
     public void releseFromMarket(List<Actor> actors);
+    public void returnOrder(iActorBehaviour actor);
     public void update();
 }

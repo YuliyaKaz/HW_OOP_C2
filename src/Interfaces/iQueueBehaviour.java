@@ -7,5 +7,6 @@ public interface iQueueBehaviour {
     public void releaseFromQueue();
     public void takeOrder ();
     public void giveOrder ();
-   // public void geActor ();
+    public void geActor ();
+    
 }

@@ -1,0 +1,112 @@
+февр. 22, 2024 8:12:14 PM Classes.ActionClient <init>
+INFO: Клиент Victor не является участником акции Четыре товара по цене трех. Отказано в обслуживании по акции
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: boris клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: boris клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: masha клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: masha клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: prezident клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: prezident клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: Tax Audit клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: Tax Audit клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: Vera клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: Vera клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: Nikolai клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: Nikolai клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: Victor клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: Victor клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.Market takeOrder
+INFO: boris клиент сделал заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market takeOrder
+INFO: masha клиент сделал заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market takeOrder
+INFO: prezident клиент сделал заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market takeOrder
+INFO: Tax Audit клиент сделал заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market takeOrder
+INFO: Vera клиент сделал заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market takeOrder
+INFO: Nikolai клиент сделал заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market takeOrder
+INFO: Victor клиент сделал заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market giveOrder
+INFO: boris клиент получил свой заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market giveOrder
+INFO: masha клиент получил свой заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market giveOrder
+INFO: prezident клиент получил свой заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market giveOrder
+INFO: Tax Audit клиент получил свой заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market giveOrder
+INFO: Vera клиент получил свой заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market giveOrder
+INFO: Nikolai клиент получил свой заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market giveOrder
+INFO: Victor клиент получил свой заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: boris клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: masha клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: prezident клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: Tax Audit клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: Vera клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: Nikolai клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: Victor клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: boris клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: masha клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: prezident клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: Tax Audit клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: Vera клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: Nikolai клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: Victor клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: boris клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: boris клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: Tax Audit клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: boris клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: Tax Audit клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: boris клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market acceptToMarket
+INFO: Vera клиент пришел в магазин 
+февр. 22, 2024 8:12:14 PM Classes.Market takeInQueue
+INFO: Vera клиент добавлен в очередь 
+февр. 22, 2024 8:12:14 PM Classes.ActionClient setReturnOrder
+INFO: Vera клиент вернул свой заказ 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: Tax Audit клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releaseFromQueue
+INFO: Vera клиент ушел из очереди 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: Tax Audit клиент ушел из магазина 
+февр. 22, 2024 8:12:14 PM Classes.Market releseFromMarket
+INFO: Vera клиент ушел из магазина 
